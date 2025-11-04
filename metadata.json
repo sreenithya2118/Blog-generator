@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Blog Studio",
+  "description": "A modern, client-side blog application that leverages the Gemini API to generate content. It features full CRUD functionality, a rich text editor, and a sleek, responsive design built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
